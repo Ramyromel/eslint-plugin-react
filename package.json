@@ -73,7 +73,7 @@
     "markdownlint-cli": "^0.8.0 || ^0.32.2",
     "mocha": "^5.2.0",
     "npmignore": "^0.3.1",
-    "sinon": "^7.5.0",
+    "sinon": "^19.0.0",
     "typescript": "^3.9.9",
     "typescript-eslint-parser": "^20.1.1"
   },
