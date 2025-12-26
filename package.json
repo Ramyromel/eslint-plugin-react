@@ -69,7 +69,7 @@
     "glob": "=10.3.7",
     "istanbul": "^0.4.5",
     "jackspeak": "=2.1.1",
-    "ls-engines": "^0.8.1",
+    "ls-engines": "^0.10.0",
     "markdownlint-cli": "^0.8.0 || ^0.32.2",
     "mocha": "^11.0.1",
     "npmignore": "^0.3.1",
