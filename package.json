@@ -70,7 +70,7 @@
     "istanbul": "^0.4.5",
     "jackspeak": "=2.1.1",
     "ls-engines": "^0.8.1",
-    "markdownlint-cli": "^0.8.0 || ^0.32.2",
+    "markdownlint-cli": "^0.45.0",
     "mocha": "^11.0.1",
     "npmignore": "^0.3.1",
     "sinon": "^19.0.0",
